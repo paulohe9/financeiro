@@ -1,0 +1,11 @@
+{
+  "name": "financeiro-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "firebase emulators:start",
+    "deploy": "firebase deploy"
+  },
+  "devDependencies": {
+    "firebase-tools": "^13.0.0"
+  }
+}
